@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>NUC 11 &#8211; HAHA COMPUTER</title>
+	<atom:link href="https://https://github.com/trung257/manguonmo.git/tu-khoa-san-pham/nuc-11/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://github.com/trung257/manguonmo.git</link>
+	<description></description>
+	<lastBuildDate>Mon, 28 Aug 2023 14:18:35 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>MÁY TÍNH INTEL NUC 11 &#8211; NUC11BT (I9-11900KB) (RNUC11BTMI90000)</title>
+		<link>https://https://github.com/trung257/manguonmo.git/san-pham/may-tinh-intel-nuc-11-nuc11bt-i9-11900kb-rnuc11btmi90000/</link>
+					<comments>https://https://github.com/trung257/manguonmo.git/san-pham/may-tinh-intel-nuc-11-nuc11bt-i9-11900kb-rnuc11btmi90000/#respond</comments>
+		
+		<dc:creator><![CDATA[trungtoru25]]></dc:creator>
+		<pubDate>Mon, 28 Aug 2023 14:18:34 +0000</pubDate>
+				<guid isPermaLink="false">https://https://github.com/trung257/manguonmo.git/?post_type=product#038;p=55</guid>
+
+					<description><![CDATA[<div class="product-summary-item">
+<div class="product-summary-item-title">Thông số sản phẩm</div>
+<ul id="js-tskt-item" class="product-summary-item-ul d-flex flex-wrap mb-0">
+ 	<li>CPU: Intel Core i9-11900KB</li>
+ 	<li>Ram: chưa có</li>
+ 	<li>Ổ cứng: chưa có</li>
+ 	<li>VGA: Intel UHD Graphics 11th</li>
+ 	<li>Hỗ trợ lắp thêm VGA rời độ dài tối đa 30cm</li>
+</ul>
+</div>]]></description>
+										<content:encoded><![CDATA[<h2 class="ddnb-title spct-title">Đánh giá Máy tính Intel NUC 11 &#8211; NUC11BT (i9-11900KB) (RNUC11BTMI90000)</h2>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://github.com/trung257/manguonmo.git/san-pham/may-tinh-intel-nuc-11-nuc11bt-i9-11900kb-rnuc11btmi90000/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
